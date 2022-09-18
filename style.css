@@ -1,0 +1,28 @@
+
+input[type="text"]
+{
+    background-color: rgb(250, 217, 174);
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+input[type="button"]
+{
+   background-color: mediumpurple;
+   color: black;
+   font-size: 300%;
+   width: 100%;
+   height: 100%;
+   border-radius:  15px;
+}
+
+
+
+header
+{
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
